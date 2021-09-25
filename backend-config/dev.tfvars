@@ -1,0 +1,5 @@
+bucket         = "terraform-dev-bucket"
+key            = "dev/terraform/modules/cloudfront-terraform.tfstate"
+dynamodb_table = "terraform-app-dev-statelock"
+region         = "us-east-1"
+profile        = "default"

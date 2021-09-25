@@ -1,0 +1,8 @@
+[dev-deploy]
+    account = ${key_users}
+    profile = "default"
+
+[echo-deploy]
+    account = "513136617286"
+    profile = "default"
+    role = "EchoRole" 
